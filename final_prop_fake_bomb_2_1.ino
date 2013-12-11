@@ -1,4 +1,4 @@
-/*Airsoft and Paintball TIMER Bomb
+﻿/*Airsoft / Paintball TIMER Bomb
  Version 2.0
  Creators:
 Roberto Santos Reis
